@@ -1,4 +1,4 @@
-![Divyanshu Khattar (1)](https://github.com/user-attachments/assets/9437cbce-7c39-4290-9990-0b0147bc3804)
+![Divyanshu Khattar (2)](https://github.com/user-attachments/assets/d6cccc7f-4d94-4599-bde5-d28bc5befd1e)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>  Hello there !
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/DivyanshuKhattar)&nbsp;
