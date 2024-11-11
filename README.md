@@ -37,6 +37,7 @@
 <a href="https://stackoverflow.com/users/19457794/divyanshu-khattar"><img alt="LinkedIn" src="https://img.shields.io/badge/StackOverFlow-%230077B5.svg?&style=flat&logo=stackoverflow&logoColor=white"/></a> &nbsp;
 <a href="mailto:divyanshukhatta.dk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/lucky_khattar/#"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=flat&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://drive.google.com/file/d/1fGBbfWk7paJfqEZA9PU__N7PxJCrzEJS/view?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=flat&logo=pdf&logoColor=white"/></a> &nbsp;
 
 
 <br><div align="center">
